@@ -7,3 +7,4 @@ I prefer this method for generating non duplicated triples
 
 ## TODO
  - Optimise for future reference
+ - Make it generate for each value of abc (invert the relation)
